@@ -2,7 +2,7 @@
   "name": "spline-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://martinoff4.github.io/spline-test",
+  "homepage": "https://martinoff4.github.io/",
   "dependencies": {
     "@splinetool/react-spline": "^2.2.1",
     "@splinetool/runtime": "^0.9.89",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npx gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
