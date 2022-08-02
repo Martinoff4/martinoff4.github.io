@@ -2,7 +2,7 @@
   "name": "spline-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://martinoff4.github.io/martinoff4.github.io/",
+  "homepage": "https://martinoff4.github.io/",
   "dependencies": {
     "@splinetool/react-spline": "^2.2.1",
     "@splinetool/runtime": "^0.9.89",
